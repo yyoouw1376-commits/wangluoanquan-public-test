@@ -1,0 +1,18 @@
+# AUTHORIZED SECURITY TEST ONLY - SYNTHETIC, NEVER ISSUED, NOT FOR LOGIN
+# This is inert detector input, not a working configuration.
+# Do not source, execute, import, or register any of these strings in a service.
+# All account identifiers are fictional and .invalid endpoints are test-only.
+# No real provider Token, private key, account password, or issued credential is included.
+# Repository: yyoouw1376-commits/wangluoanquan-public-test (authorized PUBLIC test only).
+
+# CASE_CLOUD: INVALID IDENTIFIER, NEVER ISSUED
+aws_access_key_id="INVALID-NOT-AN-AWS-ID"
+aws_secret_access_key="SYNTHETIC_ONLY_NOT_ISSUED_CLOUD_q7V2m9R4x6K8p3T5"
+
+# CASE_DATABASE: RESERVED INVALID HOST, NO DATABASE ACCOUNT
+database_url="postgresql://synthetic_no_account:SYNTHETIC_ONLY_NEVER_REGISTERED_8q7V2m9R4x6K@db.invalid:5432/test_only"
+
+# CASE_ACCOUNT: NO ACCOUNT, RESERVED INVALID LOGIN ENDPOINT
+login_endpoint="https://login.invalid"
+username="SYNTHETIC_NONEXISTENT_ACCOUNT"
+password="SYNTHETIC_ONLY_NEVER_REGISTERED_4Q8v2M7x9R3k6T5p"
