@@ -1,0 +1,6 @@
+Automated Monitoring Latency Test
+
+Experiment: U-1C
+Purpose: Measure public commit discovery and processing time.
+
+This file contains no credentials or sensitive information.
